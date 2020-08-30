@@ -1,3 +1,13 @@
+This is for a MERN Tutorial:
+username: user1
+password: pHdPMGY4GbCdUzVW
+
+in backend folder, install:
+- npm install express cors mongoose dotenv
+npm install -g nodemon
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
